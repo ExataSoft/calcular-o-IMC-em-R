@@ -5,8 +5,6 @@
 <p/>
 <h4 align="center">Calcular o IMC - [ Índice de Massa Corporal ] - Script em R</h4>
 
-Calcular o IMC - [ Índice de Massa Corporal ] 
-
 ## Execute o código
 
 Acesse: http://www.onlinegdb.com/online_r_interpreter
